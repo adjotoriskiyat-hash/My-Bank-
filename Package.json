@@ -1,5 +1,5 @@
 {
-  "name": "First Hub Bank",
+  "name": "HubBank",
   "version": "1.0.0",
   "description": "Backend system for digital banking assignment",
   "main": "src/server.js",
